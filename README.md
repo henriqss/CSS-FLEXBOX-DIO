@@ -21,7 +21,7 @@
 ## Autores
 
 ### Karen Santos :
-* [Repositorio](https://gitlab.com/karensantos/project-flexbox-dio)
+* [Repositorio inicial](https://gitlab.com/karensantos/project-flexbox-dio)
 * [Drive](https://drive.google.com/file/d/1cSBnkzCsCaqkbiUssLW7LCVCw5yErRCk/view)
 
 ### [Mateus Henrique](https://www.linkedin.com/in/mateus-h-31233013b/)
